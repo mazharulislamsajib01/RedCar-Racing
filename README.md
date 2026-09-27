@@ -314,29 +314,4 @@ Create a `screenshots` folder and add your images. Example:
 - Local multiplayer controls
 - Sound effects using an optional platform API
 
-## Academic Note
 
-This project is intended for educational use in a Computer Graphics Lab.
-
-Before presenting it, understand:
-
-- The negative-Z coordinate system
-- Hierarchical car modeling
-- Matrix transformations
-- Traffic-pool management
-- Safe spawning
-- Collision detection
-- Exact-once overtake scoring
-- Fixed-function lighting
-- Procedural texture generation
-- Perspective and orthographic rendering
-
-## Author
-
-**Your Name**  
-Department of Computer Science and Engineering  
-Your University
-
-## License
-
-This project is available for educational and personal use. Add an MIT `LICENSE` file if you want to distribute it as an open-source project.
