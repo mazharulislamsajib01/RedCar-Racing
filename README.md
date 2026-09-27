@@ -280,11 +280,6 @@ Press `N` to toggle the environment.
 - Bright headlights
 - Emissive streetlights
 
-## Screenshots
-
-```markdown
-![Gameplay](screenshots/gameplay.jpg)
-```
 
 ## Troubleshooting
 
