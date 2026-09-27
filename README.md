@@ -282,12 +282,8 @@ Press `N` to toggle the environment.
 
 ## Screenshots
 
-Create a `screenshots` folder and add your images. Example:
-
 ```markdown
-![Main Menu](screenshots/main-menu.png)
-![Gameplay](screenshots/gameplay.png)
-![Cockpit View](screenshots/cockpit-view.png)
+![Gameplay](screenshots/gameplay.jpg)
 ```
 
 ## Troubleshooting
